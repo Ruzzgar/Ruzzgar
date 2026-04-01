@@ -15,12 +15,12 @@ I build scalable, efficient solutions and focus on high-performance code. Passio
 
 ### 📫 Connect
 * **GitHub:** You are already here.
-* **Status:** Focused on building and optimizing.
+* **Email:** ruzzgarcn@gmail.com
 
 ---
 
 ### 📈 Daily Activity
 
+![Snake Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 > Consistent progress over time.
-
-
